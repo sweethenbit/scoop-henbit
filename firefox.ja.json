@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://download.mozilla.org/?product=firefox-62.0.3-SSL&os=win64&lang=ja#/firefox.7z",
-            "hash": "ec054e1a92fca65d4afa9d45b6d3c10545bcf827bec075d57ca1afbd82df4699"
+            "hash": "2e960604fe294f004ed52747fd68e55fb5e1037c42d88b6eba9a62bafc30853c"
         },
         "32bit": {
             "url": "https://download.mozilla.org/?product=firefox-62.0.3-SSL&os=win&lang=ja#/firefox.7z",
-            "hash": "8e92223b4fa4938e6e4e77034eb75648ae8a30d034e2c5a6df3466e9352217e5"
+            "hash": "06e6392c971ab935c2cdde1ced35367be80d604965955cbac016132883ce8ae8"
         }
     },
     "extract_dir": "core",
