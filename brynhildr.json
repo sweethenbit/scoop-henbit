@@ -1,0 +1,25 @@
+{
+    "version": "2.5.5",
+    "description": "Remote Desktop For Windows.",
+    "homepage": "http://blog.x-row.net/?p=2455",
+    "license": {
+        "identifier": "Freeware"
+    },
+    "url": "http://blog.x-row.net/download/brynhildr.php?file=255#/dl.zip",
+    "hash": "8b96128bafffa1a8eac209a1e42b03699ba87a148d6138c4ae8b6ed75cbdbdb7",
+    "extract_dir": "brynhildr",
+    "bin": "brynhildr.exe",
+    "pre_install": [
+        "New-Item $dir\\log.txt"
+    ],
+    "shortcuts": [
+        [
+            "brynhildr.exe",
+            "Brynhildr"
+        ]
+    ],
+    "checkver": "([\\d.]+)</a>",
+    "autoupdate": {
+        "url": "http://blog.x-row.net/download/brynhildr.php?file=$cleanVersion#/dl.zip"
+    }
+}
