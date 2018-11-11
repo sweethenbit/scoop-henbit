@@ -5,6 +5,12 @@
     "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/download/TAG-2.35./noMeiryoUI235.zip",
     "hash": "a5476f77677236c0f6d3366e5e9a649f81435b27f606e04e6e5b59fef15cb63e",
     "bin": "noMeiryoUI.exe",
+    "shortcuts": [
+        [
+            "noMeiryoUI.exe",
+            "No!! Meiryo UI"
+        ]
+    ],
     "checkver": {
         "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/latest",
         "re": "TAG-?([\\d.]+)"
