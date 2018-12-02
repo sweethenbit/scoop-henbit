@@ -13,6 +13,12 @@
         }
     },
     "bin": "Pennywise.exe",
+    "shortcuts": [
+        [
+            "Pennywise.exe",
+            "Pennywise"
+        ]
+    ],
     "checkver": {
         "url": "https://github.com/kamranahmedse/pennywise/releases/latest",
         "re": "/releases/tag/v([\\d.]+)"
