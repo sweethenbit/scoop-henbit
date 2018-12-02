@@ -12,7 +12,7 @@
             "hash": "e8cdfb5c581161dadc29f8a20975feb60c9485ca8b9798cef95dc1f3a29accaf"
         }
     },
-    "bin": "pt.exe",
+    "bin": "Pennywise.exe",
     "checkver": {
         "url": "https://github.com/kamranahmedse/pennywise/releases/latest",
         "re": "/releases/tag/v([\\d.]+)"
