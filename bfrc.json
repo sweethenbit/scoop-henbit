@@ -1,12 +1,12 @@
 {
-    "version": "2.13.1",
+    "version": "2.14.1",
     "description": "DirectShow Filter which can convert the frame rate using GPU.",
     "homepage": "https://bluesky23.yukishigure.com/BlueskyFRC.html",
     "license": {
         "identifier": "Freeware"
     },
-    "url": "https://onedrive.live.com/download?resid=8473139A4F3F636D!339&authkey=!AD_w8d3jOJxRadg#/dl.zip",
-    "hash": "e12069b6c51c13fa9adba0ee24aa853bea602d5fbf2d8a832a6bdb75705b82f7",
+    "url": "https://onedrive.live.com/download?resid=8473139A4F3F636D!376&authkey=!ACFgG3ZHEq9qxb8/dl.zip",
+    "hash": "fde4c9db9287931499bbed4112aad8fa8c5d845ae7b89de6c6546b5a4899c78e",
     "bin": "BlueskyFRCUtil.exe",
     "shortcuts": [
         [
