@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/kamranahmedse/pennywise",
     "license": "MIT",
-    "version": "0.6.3",
+    "version": "0.7.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kamranahmedse/pennywise/releases/download/v0.6.3/Pennywise-0.6.3-win.zip",
-            "hash": "473dda8cd6544b48267b02679ec3fa38a36c69d6de710dc73aa3f55cd31e80cc"
+            "url": "https://github.com/kamranahmedse/pennywise/releases/download/v0.7.0/Pennywise-0.7.0-win.zip",
+            "hash": "9297e16eb82d7ee618843b05260fd121f181be4698a06b9ac504f9997d2043eb"
         },
         "32bit": {
-            "url": "https://github.com/kamranahmedse/pennywise/releases/download/v0.6.3/Pennywise-0.6.3-ia32-win.zip",
-            "hash": "9829eb6ba8243f7aedeb55ed36385e21dcb817b98325751601b119bb91b99cf8"
+            "url": "https://github.com/kamranahmedse/pennywise/releases/download/v0.7.0/Pennywise-0.7.0-ia32-win.zip",
+            "hash": "5ae11f48d3217ac349c66f8db9a1c253552d383beebad3df97be24a3eb6f378d"
         }
     },
     "bin": "Pennywise.exe",
