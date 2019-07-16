@@ -1,5 +1,5 @@
 {
-    "version": "2.15.1",
+    "version": "2.15.3",
     "description": "DirectShow Filter which can convert the frame rate using GPU.",
     "homepage": "https://bluesky23.yukishigure.com/BlueskyFRC.html",
     "license": {
