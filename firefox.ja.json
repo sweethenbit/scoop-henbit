@@ -1,16 +1,16 @@
 {
     "description": "Popular open source web browser. Cross-platform and available in many languages.",
     "homepage": "https://www.mozilla.org/ja/firefox/new/",
-    "version": "69.0.2",
+    "version": "69.0.3",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://download.mozilla.org/?product=firefox-69.0.2-SSL&os=win64&lang=ja#/firefox.7z",
-            "hash": "8198c3161a20f6f27c4b4ca8206b075b4806134b70164d6c09a61bb3087f4e3c"
+            "url": "https://download.mozilla.org/?product=firefox-69.0.3-SSL&os=win64&lang=ja#/firefox.7z",
+            "hash": "832480d51aa27e4442784649343556b94927de2d2c9f344989be0879cb8556f4"
         },
         "32bit": {
-            "url": "https://download.mozilla.org/?product=firefox-69.0.2-SSL&os=win&lang=ja#/firefox.7z",
-            "hash": "dab2597944cbbc494e21e7480c54ec50494fe5fb4bf463e239c315c2a62bd92d"
+            "url": "https://download.mozilla.org/?product=firefox-69.0.3-SSL&os=win&lang=ja#/firefox.7z",
+            "hash": "b94d0b7066f98744bb402494e3fb196f1ffd973b3163d0fd20ca1951fe3dbd93"
         }
     },
     "extract_dir": "core",
