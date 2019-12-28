@@ -1,16 +1,16 @@
 {
     "description": "Developer builds of Firefox: the popular open source web browser.",
     "homepage": "https://www.mozilla.org/ja/firefox/developer/",
-    "version": "72.0b10",
+    "version": "72.0b11",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/72.0b10/win64/ja/Firefox%20Setup%2072.0b10.exe#/dl.7z",
-            "hash": "sha512:38692b61f3223146bc4e8d2a06adf728102679841e09330ded0f4f31f20dd47540dd739d32f3ec9fd2963cf693c49168d20234c8384e75cc168d79536d588363"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/72.0b11/win64/ja/Firefox%20Setup%2072.0b11.exe#/dl.7z",
+            "hash": "sha512:0058a354e99242f2e3d44637c663bbdca1f74e432408fb5ee0322d0f962355dc60b9c979aa8140482347c76c467dd4cbda00f5441d8f62e80b8ec7a41fe8747b"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/72.0b10/win32/ja/Firefox%20Setup%2072.0b10.exe#/dl.7z",
-            "hash": "sha512:713ee0f4b28bf3f0c5594c9825d5ac2fa9731efb66d6aa9516684ece055dcabcc2d22856004d6bd6637cebb6bb0f13c188128855640f6e99b12a80c57738b188"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/72.0b11/win32/ja/Firefox%20Setup%2072.0b11.exe#/dl.7z",
+            "hash": "sha512:6755c52e7a25467bb13b94babfee178c6688ea2203a028b0c22eef6e6acf2b8bdba870702580e5833d71d4db158a12d17976feecbd75613ac52275a8a7afe4cc"
         }
     },
     "extract_dir": "core",
