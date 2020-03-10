@@ -1,12 +1,12 @@
 {
-    "version": "2.5.8",
+    "version": "2.5.9",
     "description": "Remote Desktop For Windows.",
     "homepage": "http://blog.x-row.net/?p=2455",
     "license": {
         "identifier": "Freeware"
     },
-    "url": "http://blog.x-row.net/download/brynhildr.php?file=258#/dl.zip",
-    "hash": "3f0174a9388aabd18bfa931199ddcec5ccf007eaafb61ac6ac292eb6be950a68",
+    "url": "http://blog.x-row.net/download/brynhildr.php?file=259#/dl.zip",
+    "hash": "685d50ea4365f3fe7e707e8050c5a18c060369cc180bc176da2430f0ab42e366",
     "extract_dir": "brynhildr",
     "bin": "brynhildr.exe",
     "pre_install": "New-Item $dir\\log.txt",
