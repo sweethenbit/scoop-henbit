@@ -1,16 +1,16 @@
 {
     "description": "Developer builds of Firefox: the popular open source web browser.",
     "homepage": "https://www.mozilla.org/ja/firefox/developer/",
-    "version": "79.0b7",
+    "version": "79.0b8",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/79.0b7/win64/ja/Firefox%20Setup%2079.0b7.exe#/dl.7z",
-            "hash": "4bf30bf4a33fda34531610ade0a9d595cc71d20476899adbd6ab22fd21bc573c"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/79.0b8/win64/ja/Firefox%20Setup%2079.0b8.exe#/dl.7z",
+            "hash": "1da67abca77826a7b0c002460e7f23be0382767d0d71da0fa2f814ad0f20ec36"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/79.0b7/win32/ja/Firefox%20Setup%2079.0b7.exe#/dl.7z",
-            "hash": "9ecc50adbeb7dd4a6b9dad5dfeec12df04d94ae5555c368893d7c49e0a18a8df"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/79.0b8/win32/ja/Firefox%20Setup%2079.0b8.exe#/dl.7z",
+            "hash": "e168ee2df1e8c4c941118c1734e26924cacb497b2727a9f446903e0e013a7119"
         }
     },
     "extract_dir": "core",
