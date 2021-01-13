@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/Tatsu-syo/noMeiryoUI",
     "license": "MIT",
-    "version": "2.40",
-    "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/download/TAG-2.40/noMeiryoUI240.zip",
-    "hash": "535ccd88b55d023c41b5f07282e04c4851c10414d8891cd9f73f8b9566f640e0",
+    "version": "2.41",
+    "url": "https://github.com/Tatsu-syo/noMeiryoUI/releases/download/TAG-2.41/noMeiryoUI241.zip",
+    "hash": "9acb61ab3c9e1d6ba1f0823ba777d4c418fbc0b67a04588442082317868c0293",
     "bin": "noMeiryoUI.exe",
     "shortcuts": [
         [
