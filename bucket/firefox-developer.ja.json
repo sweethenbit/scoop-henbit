@@ -1,16 +1,16 @@
 {
-    "version": "86.0b6",
+    "version": "86.0b7",
     "description": "Developer builds of Firefox: the popular open source web browser.",
     "homepage": "https://www.mozilla.org/ja/firefox/developer/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/86.0b6/win64/ja/Firefox%20Setup%2086.0b6.exe#/dl.7z",
-            "hash": "sha512:e4eda9c24d87c9cf8fecec681e9647bf9a32f6127945a529c7db8d7d49d719086f38cfd91ad122848b53acebd7d1ca77bb97fc06f83bcc702ebdca709fdd04c3"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/86.0b7/win64/ja/Firefox%20Setup%2086.0b7.exe#/dl.7z",
+            "hash": "sha512:7cb818bed1de4883f8bb6ca902e0b7c594bb5480464eed85073c1a968cef7ea5dd7d7a9cab0d1e33392981e7b4ccac8dcb3bdc50f3a4e931a42329f4d5743046"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/devedition/releases/86.0b6/win32/ja/Firefox%20Setup%2086.0b6.exe#/dl.7z",
-            "hash": "sha512:e4eda9c24d87c9cf8fecec681e9647bf9a32f6127945a529c7db8d7d49d719086f38cfd91ad122848b53acebd7d1ca77bb97fc06f83bcc702ebdca709fdd04c3"
+            "url": "https://archive.mozilla.org/pub/devedition/releases/86.0b7/win32/ja/Firefox%20Setup%2086.0b7.exe#/dl.7z",
+            "hash": "sha512:7cb818bed1de4883f8bb6ca902e0b7c594bb5480464eed85073c1a968cef7ea5dd7d7a9cab0d1e33392981e7b4ccac8dcb3bdc50f3a4e931a42329f4d5743046"
         }
     },
     "extract_dir": "core",
