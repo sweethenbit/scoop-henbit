@@ -1,0 +1,46 @@
+{
+    "version": "89.0",
+    "description": "Popular open source web browser.",
+    "homepage": "https://www.mozilla.org/firefox/",
+    "license": "MPL-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0/win64/ja/Firefox%20Setup%2089.0.exe#/dl.7z",
+            "hash": "sha512:c63ea015d514e8b0573ddb96257e4463dc4efce6b6b5c66d63844d09d89cc1aba133de5aea376e8ff3504ebff379243983d2c9f6ddd4281cd10fafbee2d0b8f4"
+        },
+        "32bit": {
+            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0/win32/ja/Firefox%20Setup%2089.0.exe#/dl.7z",
+            "hash": "sha512:ba9b775b517e2dac9035ab1af5fa6dbf22778c2bec8f2c315e2b0a9a1abf307790eb364a70b9860c5c3949a99f34f1b479993aea0967e5a4efba9a45bab09ceb"
+        }
+    },
+    "extract_dir": "core",
+    "bin": "firefox.exe",
+    "shortcuts": [
+        [
+            "firefox.exe",
+            "Firefox"
+        ]
+    ],
+    "checkver": {
+        "url": "https://www.mozilla.org/ja/firefox/notes/",
+        "regex": "<div class=\"c-release-version\">([\\d.]+)</div>"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://archive.mozilla.org/pub/firefox/releases/$version/win64/ja/Firefox%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://archive.mozilla.org/pub/firefox/releases/$version/SHA512SUMS",
+                    "regex": "$sha512\\s+win64/ja/$basename"
+                }
+            },
+            "32bit": {
+                "url": "https://archive.mozilla.org/pub/firefox/releases/$version/win32/ja/Firefox%20Setup%20$version.exe#/dl.7z",
+                "hash": {
+                    "url": "https://archive.mozilla.org/pub/firefox/releases/$version/SHA512SUMS",
+                    "regex": "$sha512\\s+win32/ja/$basename"
+                }
+            }
+        }
+    }
+}
