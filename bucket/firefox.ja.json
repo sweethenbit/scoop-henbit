@@ -1,16 +1,16 @@
 {
-    "version": "89.0.1",
+    "version": "89.0.2",
     "description": "Popular open source web browser.",
     "homepage": "https://www.mozilla.org/firefox/",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0.1/win64/ja/Firefox%20Setup%2089.0.1.exe#/dl.7z",
-            "hash": "sha512:28e601ca592d6d681397ed7dd7a8705b5d88990881e5bb263b06bb4c94206adbe4a35195acd6de49d550afc0f077a6c18e583b22fd46dca02a4b77fa3289a304"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0.2/win64/ja/Firefox%20Setup%2089.0.2.exe#/dl.7z",
+            "hash": "sha512:4e756971dbc5b390c06ba466faa10f8eb9902909f646ceec98c92a669d039b4e00d26ad4992396224e420ea679f9ff797651678285cde2d7aaff98c05b68465c"
         },
         "32bit": {
-            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0.1/win32/ja/Firefox%20Setup%2089.0.1.exe#/dl.7z",
-            "hash": "sha512:19ecbdb9bad637b83efa69164edad5d4d7832cea67226c9190a6ce21e433b015dbd374ea291f021b5dbd20f66a1b0038d89f13cb04ed7a797b4bcf794b6711a9"
+            "url": "https://archive.mozilla.org/pub/firefox/releases/89.0.2/win32/ja/Firefox%20Setup%2089.0.2.exe#/dl.7z",
+            "hash": "sha512:ac0cabae592d99f8c627ea112370ef9998d6c6de9619d9063da37755658614069351a5707305791e53d7ca6dc4812dc45cc587090c79989be373ff2bcf8c52b8"
         }
     },
     "extract_dir": "core",
