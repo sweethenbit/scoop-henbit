@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/derrod/legendary",
     "license": "GPL-3.0-only",
-    "version": "0.20.1",
-    "url": "https://github.com/derrod/legendary/releases/download/0.20.1/legendary.exe",
-    "hash": "88b7b799cd040d14fc2bd329405a9154e28f582916d50aec42260282b2a928cd",
+    "version": "0.20.10",
+    "url": "https://github.com/derrod/legendary/releases/download/0.20.10/legendary.exe",
+    "hash": "f828185f0e3e07a09035764d84a76fc0fc2717ed0943946da3a7cf7d737c072d",
     "bin": "legendary.exe",
     "checkver": {
         "url": "https://github.com/derrod/legendary/releases/latest",
