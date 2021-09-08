@@ -7,7 +7,7 @@
     "bin": "legendary.exe",
     "checkver": {
         "url": "https://github.com/derrod/legendary/releases/latest",
-        "regex": "(\\d[.][\\d.]{4})"
+        "regex": "(\\d+[.]\\d+[.]\\d+)"
     },
     "autoupdate": {
         "url": "https://github.com/derrod/legendary/releases/download/$version/legendary.exe"
