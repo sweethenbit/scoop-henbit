@@ -1,12 +1,12 @@
 {
-    "version": "0.4.4",
+    "version": "0.4.5",
     "description": "Remote desktop for Windows.",
     "homepage": "https://rath.remotedesktop.jp",
     "license": {
         "url": "https://rath.remotedesktop.jp/#menu03"
     },
-    "url": "https://rath.remotedesktop.jp/download.php?file=verethragna&ver=044#/dl.zip",
-    "hash": "4338340bc62cf8e386ad62a5ce57f3239db8a963807f4fda75c5c0d7d7a19ef2",
+    "url": "https://rath.remotedesktop.jp/download.php?file=verethragna&ver=045#/dl.zip",
+    "hash": "6880bc99df0c26b7c06eab630727817e513921036b7f3daf29b311b071254018",
     "extract_dir": "verethragna",
     "bin": "verethragna.exe",
     "shortcuts": [
